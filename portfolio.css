@@ -1,0 +1,91 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1c1a1b;background-color: beige;
+}
+nav{
+    background-color: cornsilk;
+    padding:20px;
+    text-align: center;
+}
+.portfolio-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    margin: 10px 0;
+    border:2px solid red;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+header {
+background-color: #333;
+color: #fff;
+padding: 20px 0;
+text-align: center;
+}
+nav {
+background-color: #eee;
+padding: 10px 0;
+text-align: center;
+}
+
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+nav li {
+display: inline-block;
+margin: 0 10px;
+}
+
+nav a {
+text-decoration: underline;
+color: red;
+font-weight: bold;
+}
+a:vistited
+{
+color:darkgreen;
+
+}
+a:hover{
+background-color: yellow;
+color:brown;
+font:'monospace'
+}
+
+main {
+padding: 20px;
+}
+
+section {
+background-color: #fff;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav{
+background-color: lightblue;
+}
+
+.titles
+{
+color:blue;
+font-weight:bold;
+font-family: 'Lucida Sans';
+}
